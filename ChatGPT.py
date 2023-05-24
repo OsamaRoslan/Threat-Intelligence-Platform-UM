@@ -6,7 +6,7 @@
 
 import os
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = ''
 
 import openai
 import numpy as np
